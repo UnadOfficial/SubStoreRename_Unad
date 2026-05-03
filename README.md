@@ -1,5 +1,8 @@
 # RenameByUnad
 
+# 自用 请勿用于生产环境 Readme由Qwen生成
+# SubStore中使用直接复制到单条订阅-脚本操作就行
+
 一个用于重命名代理节点的 JavaScript 脚本，适用于 Surge、Clash 等代理配置工具。
 
 ## 功能特点
